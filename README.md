@@ -8,6 +8,6 @@ DJ04. Формы и развертывание проекта
 <br>
 не добавлены кноки сабмин*
 <br>
-<input type="submit" value="Отправить"> - просто кнопка
+! <input type="submit" value="Отправить"> - просто кнопка
 <br>
-<button type="submit"><b>Отправить</b></button> - контейнер кнопки.
+! <button type="submit"><b>Отправить</b></button> - контейнер кнопки.
