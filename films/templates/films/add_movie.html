@@ -14,7 +14,9 @@
     <form method="post">
         {% csrf_token %}
         {{ form.as_p }}
-        <button type="submit" class="btn btn-primary">Сохранить</button>
+        <input type="submit" class="btn btn-primary me-2" value="Отправить">
+        <button type="submit" class="btn btn-outline-dark"><b>Отправить</b></button>
+
     </form>
 </div>
 </body>
